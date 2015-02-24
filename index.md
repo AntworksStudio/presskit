@@ -1,22 +1,22 @@
-# ![Company Name](assets/images/header.png)
+# ![Antworks Studio](assets/images/header.png)
 
 ## Factsheet
 
 **Developer:**  
-Company Name
+Antworks Studio
 
 **Founding date:**  
 January 1, 2015
 
 **Website:**  
-[companydomain.com][homepage]
+[antworks.itch.io][homepage]
 
 **Press / Business contact:**  
 [press-contact@company.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
+[twitter.com/AntworksStudio][twitter]  
+[facebook.com/AntworksStudio][facebook]  
 [Skype](callto:companyskypename)
 
 **Releases:**  
