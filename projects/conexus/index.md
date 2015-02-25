@@ -97,11 +97,11 @@ Download das imagens em ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zi
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://antworks.itch.io "Antworks Studio"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:antworks.studio@gmail.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
-[facebook]: https://facebook.com/companyname
+[twitter]: https://twitter.com/AntworksStudio
+[facebook]: https://facebook.com/AntworksStudio
