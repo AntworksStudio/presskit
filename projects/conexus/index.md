@@ -33,6 +33,7 @@ No início de 2014, com o feedback recebido de membros da IGDA (Independent Game
 * Jogabilidade frenética.
 * Dois modos de jogo.
 * Partidas rápidas.
+* Cores vibrantes.
 * Ranking local.
 
 ## Vídeos
