@@ -21,7 +21,7 @@ Free
 ## Descrição
 
 Conecte as formas geométricas na tela e forme ciclos!  
-Conexus exige velocidade, habilidade e raciocínio rápido para conectar as formas que pular freneticamente pela tela ao som de uma música igualmente frenética.
+Conexus exige velocidade, habilidade e raciocínio rápido para conectar as formas que pulam freneticamente pela tela ao som de uma música igualmente frenética.
 
 ## História
 Primeiro jogo comercial da Antworks Studio, o Conexus foi resultado da Campjam de 2013, uma game jam local na cidade de Campinas. Inspirado no tema "café", apresentado por uma imagem de uma molécula de cafeína, o jogo se inspirou na molécula para conectar os objetos, e nos efeitos da cafeína para a velocidade frenética. Além disso, a equipe sendo composta apenas de programadores levou à utilização de simples formas geométricas.  
@@ -45,6 +45,11 @@ Trailer de lançamento. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "C
 Vídeo de gameplay. [Youtube](https://www.youtube.com/watch?v=dBg3E4SiYFY "Conexus gameplay on Youtube")
 
 <iframe src="//www.youtube.com/embed/dBg3E4SiYFY" frameborder="0" allowfullscreen></iframe>
+<br>
+
+Demo de tutoriais. [Youtube](https://www.youtube.com/watch?v=NwiiKDIAPP0 "Conexus tutorial demo on Youtube")
+
+<iframe src="//www.youtube.com/embed/NwiiKDIAPP0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 ## Imagens
