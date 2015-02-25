@@ -12,22 +12,18 @@ April 29, 2012
 [antworks.itch.io][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[antworks.studio@gmail.com][contact]
 
 **Social:**  
 [twitter.com/AntworksStudio][twitter]  
 [facebook.com/AntworksStudio][facebook]  
 
 **Releases:**  
-[exampleproject][example_project]
+[Conexus][conexus]
 
 **Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
+Campinas, São Paulo 
+Brazil
 
 ## Description
 
@@ -118,4 +114,4 @@ Another of these. See [here](https://link)
 
 <!--- Projects  -->
 
-[example_project]: projects/exampleproject/
+[conexus]: projects/conexus/
