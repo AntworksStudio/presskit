@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Projects
 
-* [exampleproject][example_project]
+* [Conexus][conexus]
 
 ## Videos
 
