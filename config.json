@@ -14,20 +14,14 @@
   ],
   "layout": {
     "40%_Width": [
-      "factsheet",
       "informacoes"
     ],
     "60%_Width": [
-      "description",
-      "history",
-      "projects",
       "descricao",
       "historia",
       "projetos"
     ],
     "50%_Width": [
-      "team",
-      "contact",
       "equipe",
       "contato"
     ]

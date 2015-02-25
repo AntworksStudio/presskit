@@ -12,19 +12,14 @@
   ],
   "layout": {
     "40%_Width": [
-      "factsheet",
       "informacoes"
     ],
     "60%_Width": [
-      "description",
-      "history",
-      "features",
       "descricao",
-      "historia"
+      "historia",
+      "features"
     ],
     "50%_Width": [
-      "credits",
-      "contact",
       "creditos",
       "contato"
     ]
