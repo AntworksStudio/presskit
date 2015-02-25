@@ -3,24 +3,20 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+Antworks Studio
 
 **Release Date:**  
-January 1, 20XX
+November 28, 2014
 
 **Platforms:**  
-[Windows / Mac / Linux](http://link)  
-[PS4](http://link)  
-[Xbox One](http://link)  
-[PlayStation Vita](http://link)  
-[Nintendo DS](http://link)  
+[Android](https://play.google.com/store/apps/details?id=com.AntworksStudio.Conexus)
+[Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)
 
 **Website:**  
-[companydomain.com/exampleproject](http://companydomain.com/exampleproject)
+[Conexus at itch.io](http://www.facebook.com/l.php?u=http%3A%2F%2Fantworks.itch.io%2Fconexus&h=9AQF4m47T)
 
 **Regular Price:**  
-USD	$100  
-EU	€100
+Free
 
 ## Description
 
