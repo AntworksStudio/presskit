@@ -6,7 +6,7 @@
 Antworks Studio
 
 **Fundação:**  
-29 de Abril, 2012
+29 de Abril de 2012
 
 **Website:**  
 [antworks.itch.io][homepage]
