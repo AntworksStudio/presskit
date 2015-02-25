@@ -16,13 +16,13 @@ April 29, 2012
 
 **Social:**  
 [twitter.com/AntworksStudio][twitter]  
-[facebook.com/AntworksStudio][facebook]  
+[facebook.com/AntworksStudio][facebook]
 
 **Releases:**  
 [Conexus][conexus]
 
 **Address:**  
-Campinas, São Paulo 
+Campinas, São Paulo  
 Brazil
 
 ## Description
