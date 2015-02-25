@@ -106,15 +106,14 @@ Another of these. See [here](https://link)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://antworks.itch.io "Antworks Studio"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:antworks.studio@gmail.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
-[facebook]: https://facebook.com/companyname
-[skype]: callto:companyskypename
+[twitter]: https://twitter.com/AntworksStudio
+[facebook]: https://facebook.com/AntworksStudio
 
 <!--- Projects  -->
 
