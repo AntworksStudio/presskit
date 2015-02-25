@@ -54,11 +54,11 @@ We have a trailer and this is it. [And this is what we called the link](https://
 
 download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
 
-[![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
-[![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
-[![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
-[![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
-[![image_05_name](assets/images/image_05.png)](assets/images/image_05.png)
+[![image_01_name](assets/images/team_01.jpg)](assets/images/team_01.jpg)
+[![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
+[![image_03_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
+[![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
+[![image_05_name](assets/images/conexus_03.png)](assets/images/conexus_03.png)
 
 ## Logo & Icon
 
@@ -67,15 +67,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Additional Links
-
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
-
-**Company Link #2**  
-Another of these. See [here](https://link)
-
-## Team & Repeating Collaborator
+## Team
 
 **Renato Landim Vargas**  
 [Co-Founder]
