@@ -67,30 +67,33 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Team
+## Example Project Credits
 
-**Renato Landim Vargas**  
-[Co-Founder]
+**Probably the founder's name goes here**  
+[Founder](https://link)
 
-**Victor Rodrigues Matsuguma**  
-[Co-Founder]
+**Another person's name**  
+[developer maybe](https://link)
 
-**Vinícius Pimentel Couto**  
-[Co-Founder]
+**Another person, show em if you've got em**  
+[artist, who knows](https://link)
+
+**A fourth person**  
+[music, sound?](https://link)
 
 ## Contact
 
 **Inquiries**  
-[antworks.studio@gmail.com][contact]
+[press-contact@company.com][contact]
 
 **Twitter**  
-[twitter.com/AntworksStudio][twitter]
+[twitter.com/companyname][twitter]
 
 ** Facebook**  
-[facebook.com/AntworksStudio][facebook]
+[facebook.com/companyname][facebook]
 
 **Web**  
-[antworks.itch.io][homepage]
+[companydomain.com][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
