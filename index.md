@@ -17,7 +17,6 @@ April 29, 2012
 **Social:**  
 [twitter.com/AntworksStudio][twitter]  
 [facebook.com/AntworksStudio][facebook]  
-[Skype](callto:companyskypename)
 
 **Releases:**  
 [exampleproject][example_project]
