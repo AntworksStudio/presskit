@@ -35,10 +35,6 @@ Stuff about the studio. Talk about yourselves in the third person!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Second subhed if you want it!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ## Projetos
 
 * [Conexus][conexus]
@@ -60,7 +56,7 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 [![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
 [![image_05_name](assets/images/conexus_03.png)](assets/images/conexus_03.png)
 
-## Logo & Ícon
+## Logo & Ícone
 
 download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
 
@@ -70,13 +66,13 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 ## Equipe
 
 **Renato Landim Vargas**  
-[Co-Founder]
+[Co-Fundador]
 
 **Victor Rodrigues Matsuguma**  
-[Co-Founder]
+[Co-Fundador]
 
 **Vinícius Pimentel Couto**  
-[Co-Founder]
+[Co-Fundador]
 
 ## Contato
 

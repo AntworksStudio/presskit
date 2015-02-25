@@ -16,7 +16,7 @@ November 28, 2014
 [Conexus at itch.io](http://www.facebook.com/l.php?u=http%3A%2F%2Fantworks.itch.io%2Fconexus&h=9AQF4m47T)
 
 **Preço:**  
-Free
+Grátis
 
 ## Descrição
 
