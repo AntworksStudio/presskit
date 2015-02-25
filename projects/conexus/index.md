@@ -7,6 +7,7 @@ Antworks Studio
 
 **Lançamento**  
 28 de Novembro de 2014
+
 **Plataformas:**  
 [Android](https://play.google.com/store/apps/details?id=com.AntworksStudio.Conexus)  
 [Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)
