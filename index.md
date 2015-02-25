@@ -6,7 +6,7 @@
 Antworks Studio
 
 **Founding date:**  
-January 1, 2015
+April 29, 2012
 
 **Website:**  
 [antworks.itch.io][homepage]
@@ -71,21 +71,6 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Awards & Recognition
-
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
-
-## Selected Articles
-
-> * "Quote quote quote."  
--- *Person Name, [Website](http://www.website.com/)*
-
-
-> * "More quotes."  
--- *Person name, [Site](http://geocities.blog.com/)*
-
-
 ## Additional Links
 
 **Company Link #1**  
@@ -96,31 +81,28 @@ Another of these. See [here](https://link)
 
 ## Team & Repeating Collaborator
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
+**Renato Landim Vargas**  
+[Co-Founder]
 
-**Another person's name**  
-[developer maybe](https://link)
+**Victor Rodrigues Matsuguma**  
+[Co-Founder]
 
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
+**Vinícius Pimentel Couto**  
+[Co-Founder]
 
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[antworks.studio@gmail.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/AntworksStudio][twitter]
 
 ** Facebook**  
-[facebook.com/companyname][facebook]
+[facebook.com/AntworksStudio][facebook]
 
 **Web**  
-[companydomain.com][homepage]
+[antworks.itch.io][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
