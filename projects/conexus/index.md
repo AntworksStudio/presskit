@@ -13,7 +13,7 @@ Antworks Studio
 [Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)
 
 **Website:**  
-[Conexus at itch.io](http://www.facebook.com/l.php?u=http%3A%2F%2Fantworks.itch.io%2Fconexus&h=9AQF4m47T)
+[Conexus at itch.io](http://antworks.itch.io/conexus)
 
 **Preço:**  
 Free

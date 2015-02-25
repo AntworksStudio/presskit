@@ -23,7 +23,7 @@ Antworks Studio
 
 **Localização:**  
 Campinas, São Paulo  
-Brazil
+Brasil
 
 ## Descrição
 
