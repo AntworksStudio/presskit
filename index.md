@@ -31,7 +31,8 @@ A Antworks Studio é um pequeno estúdio de jogos composto de três estudantes d
 
 ## História
 
-Em 2012, depois de muito quebrar a cabeça com diversas ferramentas e nenhuma experiência, os três co-fundadores encontraram a Unity e a partir daí começaram a desenvolver. O primeiro jogo veio apenas em 2013, o Conexus,  resultado de uma game jam local. Hoje, a Antworks Studio se prepara para novos projetos e ideias.
+Em 2012, depois de muito quebrar a cabeça com diversas ferramentas e nenhuma experiência no ramo, os três co-fundadores encontraram a game engine Unity e a partir daí começaram a desenvolver seus primeiros projetos. O primeiro jogo veio apenas em 2013, o Conexus, resultado de uma game jam local.  
+Hoje, a Antworks Studio se prepara para novos projetos e ideias, buscando jogos desafiantes, porém, acima de tudo, divertidos.
 
 ## Projetos
 
