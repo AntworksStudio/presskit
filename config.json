@@ -14,16 +14,22 @@
   ],
   "layout": {
     "40%_Width": [
-      "factsheet"
+      "factsheet",
+      "informacoes"
     ],
     "60%_Width": [
       "description",
       "history",
-      "projects"
+      "projects",
+      "descricao",
+      "historia",
+      "projetos"
     ],
     "50%_Width": [
-      "team-repeating-collaborator",
-      "contact"
+      "team",
+      "contact",
+      "equipe",
+      "contato"
     ]
   },
   "googleAnalytics": ""
