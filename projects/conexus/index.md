@@ -62,62 +62,30 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Awards & Recognition
+## Project Credits
 
-> * "Winner, XX awards." - *December 13, 2013*
-> * "Nominee, YY awards." - *December 13, 2013*
+**Renato Landim Vargas**  
+[Developer]
 
-## Selected Articles
+**Victor Rodrigues Matsuguma**  
+[Developer]
 
-> * "Put a quote here, from someone who talked about your game."  
--- *Person Name, [Website](http://www.website.com/)*
-
-> * "More quotes. Make sure to quote people properly! No trimming!"  
--- *Person name, [Site](http://geocities.blog.com/)*
-
-## Additional Links
-
-**Company Link #1**  
-A link to something related can go [here](https://link)
-
-**Company Link #2**  
-Another link like this goes [here](https://link) if you want.
-
-## About Company
-
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
-
-**Company Link #2**  
-Another of these. See [here](https://link)
-
-## Example Project Credits
-
-**Probably the founder's name goes here**  
-[Founder](https://link)
-
-**Another person's name**  
-[developer maybe](https://link)
-
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
+**Vinícius Pimentel Couto**  
+[Developer]
 
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[antworks.studio@gmail.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/AntworksStudio][twitter]
 
 ** Facebook**  
-[facebook.com/companyname][facebook]
+[facebook.com/AntworksStudio][facebook]
 
 **Web**  
-[companydomain.com][homepage]
+[antworks.itch.io][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->

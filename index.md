@@ -1,37 +1,37 @@
 # ![Antworks Studio](assets/images/header.png)
 
-## Informações
+## Information
 
-**Desenvolvedora:**  
+**Developer:**  
 Antworks Studio
 
-**Fundação:**  
+**Founding Date:**  
 29 de Abril, 2012
 
 **Website:**  
 [antworks.itch.io][homepage]
 
-**Contato:**  
+**Contact:**  
 [antworks.studio@gmail.com][contact]
 
 **Social:**  
 [twitter.com/AntworksStudio][twitter]  
 [facebook.com/AntworksStudio][facebook]
 
-**Publicações:**  
+**Releases:**  
 [Conexus][conexus]
 
-**Localização:**  
+**Address:**  
 Campinas, São Paulo  
 Brazil
 
-## Descrição
+## Description
 
 Stuff about the studio. Talk about yourselves in the third person!
 
-## História
+## History
 
-### Início
+### Begining
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -39,18 +39,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Projetos
+## Projects
 
 * [Conexus][conexus]
 
-## Vídeos
+## Videos
 
 We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
-## Imagens
+## Images
 
 download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
 
@@ -60,14 +60,14 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 [![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
 [![image_05_name](assets/images/conexus_03.png)](assets/images/conexus_03.png)
 
-## Logo & Ícone
+## Logo & Icon
 
 download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Equipe
+## Team & Repeating Collaborators
 
 **Renato Landim Vargas**  
 [Co-Founder]
@@ -78,7 +78,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 **Vinícius Pimentel Couto**  
 [Co-Founder]
 
-## Contato
+## Contact
 
 **Inquiries**  
 [antworks.studio@gmail.com][contact]
