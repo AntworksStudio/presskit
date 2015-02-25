@@ -27,13 +27,11 @@ Brazil
 
 ## Descrição
 
-Stuff about the studio. Talk about yourselves in the third person!
+A Antworks Studio é um pequeno estúdio de jogos composto de três estudantes da Unicamp unidos pelo gosto em comum por jogos.
 
 ## História
 
-### Início
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Em 2012, depois de muito quebrar a cabeça com diversas ferramentas e nenhuma experiência, os três co-fundadores encontraram a Unity e a partir daí começaram a desenvolver. O primeiro jogo veio apenas em 2013, o Conexus,  resultado de uma game jam local. Hoje, a Antworks Studio se prepara para novos projetos e ideias.
 
 ## Projetos
 
@@ -41,14 +39,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Vídeos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
+Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
 ## Imagens
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+Download das imagens em ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/team_01.jpg)](assets/images/team_01.jpg)
 [![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
@@ -58,7 +56,7 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 
 ## Logo & Ícone
 
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+Download das imagens em ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
