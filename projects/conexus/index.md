@@ -20,33 +20,36 @@ Free
 
 ## Descrição
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Conecte as formas geométricas na tela e forme ciclos!  
+Conexus exige velocidade, habilidade e raciocínio rápido para conectar as formas que pular freneticamente pela tela ao som de uma música igualmente frenética.
 
 ## História
-
-O primeiro jogo comercial 
+Primeiro jogo comercial da Antworks Studio, o Conexus foi resultado da Campjam de 2013, uma game jam local na cidade de Campinas. Inspirado no tema "café", apresentado por uma imagem de uma molécula de cafeína, o jogo se inspirou na molécula para conectar os objetos, e nos efeitos da cafeína para a velocidade frenética. Além disso, a equipe sendo composta apenas de programadores levou à utilização de simples formas geométricas.  
+Depois de ter chamado bastante atenção na game jam, o estúdio decidiu continuar o desenvolvimento do jogo, que se alongou por vários meses devido a demais compromissos.  
+No início de 2014, com o feedback recebido de membros da IGDA (Independent Game Developers Association) e de participantes de diversos eventos, o jogo passou por diversas modificações até chegar à sua forma atual, dita simples, porém difícil e viciante.
 
 ## Features
 
 * Jogabilidade frenética.
 * Dois modos de jogo.
+* Partidas rápidas.
 * Ranking local.
 
 ## Vídeos
 
-Here is Conexus' Launch Trailer. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
+Trailer de lançamento. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
-There is also a gameplay video. [Youtube](https://www.youtube.com/watch?v=dBg3E4SiYFY "Conexus gameplay on Youtube")
+Vídeo de gameplay. [Youtube](https://www.youtube.com/watch?v=dBg3E4SiYFY "Conexus gameplay on Youtube")
 
 <iframe src="//www.youtube.com/embed/dBg3E4SiYFY" frameborder="0" allowfullscreen></iframe>
 <br>
 
 ## Imagens
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+Download dos screenshots em ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
 [![image_02_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
@@ -56,7 +59,7 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 
 ## Logo & Ícone
 
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+Download das imagens em ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
@@ -64,13 +67,13 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 ## Créditos do Projeto
 
 **Renato Landim Vargas**  
-[Developer]
+[Desenvolvedor]
 
 **Victor Rodrigues Matsuguma**  
-[Developer]
+[Desenvolvedor]
 
 **Vinícius Pimentel Couto**  
-[Developer]
+[Desenvolvedor]
 
 ## Contato
 
