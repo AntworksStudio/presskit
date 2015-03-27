@@ -21,7 +21,7 @@ Free
 ## Description
 
 Connect the geometric shapes on the screen and close cycles!
-Conexus requires speed, hability and fast-thinking to connect the shapes jumping frenetically on the screen to the sound of equally frenetic music.
+Conexus requires speed, hability and fast-thinking to connect the shapes jumping frenetically on the screen to the sound of awesome super fast-paced music.
 
 ## History
 Antworks Studio's first comercial title, Conexus was a result of Campjam 2013, a local game jam in Campinas, São Paulo. It was inspired by the theme "coffee", presented by an image of a caffeine molecule. The game took inspiration from the molecule to connect the objects and from the effects of caffeine for its very fast-paced gameplay. The team was composed only by programers, which led to using geometric shapes.
