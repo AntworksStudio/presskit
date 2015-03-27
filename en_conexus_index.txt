@@ -1,0 +1,108 @@
+# ![Game Name](assets/images/header.png)
+
+## Information
+
+**Developer:**  
+Antworks Studio
+
+**Launch Date**  
+November 28, 2014
+
+**Platforms:**  
+[Android](https://play.google.com/store/apps/details?id=com.AntworksStudio.Conexus)  
+[Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)
+
+**Website:**  
+[Conexus at itch.io](http://antworks.itch.io/conexus)
+
+**Price:**  
+Free
+
+## Description
+
+Connect the geometric shapes on the screen and close cycles!
+Conexus requires speed, hability and fast-thinking to connect the shapes jumping frenetically on the screen to the sound of equally frenetic music.
+
+## History
+Antworks Studio's first comercial title, Conexus was a result of Campjam 2013, a local game jam in Campinas, São Paulo. It was inspired by the theme "coffee", presented by an image of a caffeine molecule. The game took inspiration from the molecule to connect the objects and from the effects of caffeine for its very fast-paced gameplay. The team was composed only by programers, which led to using geometric shapes.
+After receiving a lot of attention at the game jam, the studio decided to continue development, which ended up taking several months due to other duties of the team members. 
+In the begining of 2014, with the feedback from members of IGDA (Independent Game Developers Association) and the participants of various events, the game went through deep modifications until reaching its final form, said to be simple, yet challenging and addicting.
+
+## Features
+
+* Fast-paced gameplay.
+* Two game modes.
+* Quick game sessions.
+* Vibrating colors.
+* Local ranking.
+
+## Videos
+
+Launch trailer. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
+
+<iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
+<br>
+
+Gameplay video. [Youtube](https://www.youtube.com/watch?v=dBg3E4SiYFY "Conexus gameplay on Youtube")
+
+<iframe src="//www.youtube.com/embed/dBg3E4SiYFY" frameborder="0" allowfullscreen></iframe>
+<br>
+
+Tutorial demo. [Youtube](https://www.youtube.com/watch?v=NwiiKDIAPP0 "Conexus tutorial demo on Youtube")
+
+<iframe src="//www.youtube.com/embed/NwiiKDIAPP0" frameborder="0" allowfullscreen></iframe>
+<br>
+
+## Images
+
+Download screenshots at ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+
+[![image_01_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
+[![image_02_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
+[![image_03_name](assets/images/conexus_03.png)](assets/images/conexus_03.png)
+[![image_04_name](assets/images/conexus_04.png)](assets/images/conexus_04.png)
+[![image_05_name](assets/images/conexus_05.png)](assets/images/conexus_05.png)
+
+## Logo & Icon
+
+Download images at** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+
+[![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
+[![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
+
+## Project Credits
+
+**Renato Landim Vargas**  
+[Developer]
+
+**Victor Rodrigues Matsuguma**  
+[Developer]
+
+**Vinícius Pimentel Couto**  
+[Developer]
+
+## Contact
+
+**Inquiries**  
+[antworks.studio@gmail.com][contact]
+
+**Twitter**  
+[twitter.com/AntworksStudio][twitter]
+
+** Facebook**  
+[facebook.com/AntworksStudio][facebook]
+
+**Web**  
+[antworks.itch.io][homepage]
+
+<!--- =====================================================================  -->
+<!--- Referenced links -->
+
+[homepage]: http://antworks.itch.io "Antworks Studio"
+
+[contact]: mailto:antworks.studio@gmail.com
+
+<!--- Social -->
+
+[twitter]: https://twitter.com/AntworksStudio
+[facebook]: https://facebook.com/AntworksStudio

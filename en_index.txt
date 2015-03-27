@@ -1,0 +1,104 @@
+# ![Antworks Studio](assets/images/header.png)
+
+## Information
+
+**Developer:**  
+Antworks Studio
+
+**Founding Date:**  
+April 29, 2012
+
+**Website:**  
+[antworks.itch.io][homepage]
+
+**Contact:**  
+[antworks.studio@gmail.com][contact]
+
+**Social:**  
+[twitter.com/AntworksStudio][twitter]  
+[facebook.com/AntworksStudio][facebook]
+
+**Published:**  
+[Conexus][conexus]
+
+**Location:**  
+Campinas, São Paulo  
+Brazil
+
+## Description
+
+Antworks Studio is a small game studio composed of three Unicamp students united by their common taste for games.
+
+## History
+
+In 2012, after a lot of hardships with various tools and no experience, the three co-fouders found Unity, the game engine, and started developing their first pojects. Their first game came only in 2013, Conexus, which is a result of a local game jam.
+Today, Antworks Studio is preparing for new projects and ideas, always in search of challenging but fun games.
+
+## Projects
+
+* [Conexus][conexus]
+
+## Videos
+
+This is Conexus' launch trailer. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
+
+<iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
+<br>
+
+## Images
+
+Download the images at ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+
+[![image_01_name](assets/images/team_01.jpg)](assets/images/team_01.jpg)
+[![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
+[![image_03_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
+[![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
+[![image_05_name](assets/images/conexus_03.png)](assets/images/conexus_03.png)
+
+## Logo & Icon
+
+Download the images at ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+
+[![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
+[![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
+
+## Team
+
+**Renato Landim Vargas**  
+[Co-Founder]
+
+**Victor Rodrigues Matsuguma**  
+[Co-Founder]
+
+**Vinícius Pimentel Couto**  
+[Co-Founder]
+
+## Contact
+
+**Inquiries**  
+[antworks.studio@gmail.com][contact]
+
+**Twitter**  
+[twitter.com/AntworksStudio][twitter]
+
+** Facebook**  
+[facebook.com/AntworksStudio][facebook]
+
+**Web**  
+[antworks.itch.io][homepage]
+
+<!--- =====================================================================  -->
+<!--- Referenced links -->
+
+[homepage]: http://antworks.itch.io "Antworks Studio"
+
+[contact]: mailto:antworks.studio@gmail.com
+
+<!--- Social -->
+
+[twitter]: https://twitter.com/AntworksStudio
+[facebook]: https://facebook.com/AntworksStudio
+
+<!--- Projects  -->
+
+[conexus]: projects/conexus/
