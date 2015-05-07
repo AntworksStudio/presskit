@@ -11,7 +11,7 @@ Antworks Studio
 **Plataformas:**  
 [Android](https://play.google.com/store/apps/details?id=com.AntworksStudio.Conexus)  
 [Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)	
-[iOS] (https://itunes.apple.com/us/app/conexus-game/id987680823?mt=8)
+[iOS](https://itunes.apple.com/us/app/conexus-game/id987680823?mt=8)
 
 **Website:**  
 [Conexus at itch.io](http://antworks.itch.io/conexus)
