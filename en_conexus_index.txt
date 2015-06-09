@@ -39,7 +39,7 @@ In the begining of 2014, with the feedback from members of IGDA (Independent Gam
 
 ## Videos
 
-Launch trailer. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
+Launch trailer. [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>

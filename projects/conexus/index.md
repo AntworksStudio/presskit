@@ -39,7 +39,7 @@ No início de 2014, com o feedback recebido de membros da IGDA (Independent Game
 
 ## Vídeos
 
-Trailer de lançamento. [Youtube](https://www.youtube.com/watch?v=HMNE6rF1UA8 "Conexus Trailer on Youtube")  
+Trailer de lançamento. [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
