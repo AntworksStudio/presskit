@@ -1,7 +1,7 @@
 ## Informações
 
 **Desenvolvedora:**  
-Antworks Studio
+[Antworks Studio](https://http://antworksstudio.github.io/presskit)
 
 **Lançamento**  
 28 de Novembro de 2014
