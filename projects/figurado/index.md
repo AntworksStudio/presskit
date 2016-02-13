@@ -14,14 +14,12 @@
 Free
 
 ## Nome
-Figurado (Working title)
+**Figurado** (Working title)
 
 ## Descrição
 
 Encontre a palavra escondida em cada quadrinho do gibi!  
 Figurado é um jogo que exige imaginação, raciocínio e criatividade. A cada quadrinho, uma imagem diferente esconde uma palavra: tente descobrir qual é.  
-
-##
 
 ## História
 Através do jogo Rebus, conhecemos o passatempo chamado rébus, que consiste em exprimir palavras através de imagens e símbolos, e o conjunto deles revela a solução. Convencidos de se tratar de um passatempo divertido e dada a inexistência de um jogo com rébus em língua portuguesa, a Antworks Studio decidiu fazer desse o seu segundo projeto comercial.  
