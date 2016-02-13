@@ -19,7 +19,7 @@ Antworks Studio
 [facebook.com/AntworksStudio][facebook]
 
 **Publicações:**  
-[Conexus][conexus]
+[Conexus][conexus]  
 [Figurado][figurado]
 
 **Localização:**  
@@ -37,7 +37,8 @@ Hoje, a Antworks Studio se prepara para novos projetos e ideias, buscando jogos 
 
 ## Projetos
 
-* [Conexus][conexus]
+* [Conexus][conexus]  
+* [Figurado][figurado]
 
 ## Vídeos
 
