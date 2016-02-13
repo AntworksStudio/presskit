@@ -20,6 +20,7 @@ Antworks Studio
 
 **Publicações:**  
 [Conexus][conexus]
+[Figurado][figurado]
 
 **Localização:**  
 Campinas, São Paulo  
@@ -102,3 +103,4 @@ Download das imagens em ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zi
 <!--- Projects  -->
 
 [conexus]: projects/conexus/
+[figurado]: projects/figurado/

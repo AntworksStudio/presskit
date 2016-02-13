@@ -1,0 +1,28 @@
+{
+  "title": "Figurado",
+  "largeLinks": [
+    {
+      "name": "Antworks Studio at itch.io",
+      "link": "http&#58;&#47;&#47;antworks&#46;itch&#46;io&#47;"
+    },
+    {
+      "name": "Press Kit - Home",
+      "link": "..&#47;..&#47;"
+    }
+  ],
+  "layout": {
+    "40%_Width": [
+      "informacoes"
+    ],
+    "60%_Width": [
+      "descricao",
+      "historia",
+      "features"
+    ],
+    "50%_Width": [
+      "creditos",
+      "contato"
+    ]
+  },
+  "googleAnalytics": ""
+}
