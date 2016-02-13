@@ -7,11 +7,8 @@ Antworks Studio
 28 de Novembro de 2014
 
 **Plataformas:**  
-[Android - BETA](https://play.google.com/apps/testing/com.Antworks.rebus)
+[Android - BETA](https://play.google.com/apps/testing/com.Antworks.rebus) 
 [iOS]
-
-**Website:**  
-
 
 **Preço:**  
 Free
@@ -21,11 +18,11 @@ Figurado (Working title)
 
 ## Descrição
 
-Encontre a palavra escondida em cada quadrinho do gibi!
+Encontre a palavra escondida em cada quadrinho do gibi! 
 Figurado é um jogo que exige imaginação, raciocínio e criatividade. A cada quadrinho, uma imagem diferente esconde uma palavra: tente descobrir qual é.
 
 ## História
-Através do jogo Rebus, conhecemos o passatempo chamado rébus, que consiste em exprimir palavras através de imagens e símbolos, e o conjunto deles revela a solução. Convencidos de se tratar de um passatempo divertido e dada a inexistência de um jogo com rébus em língua portuguesa, a Antworks Studio decidiu fazer desse o seu segundo projeto comercial.
+Através do jogo Rebus, conhecemos o passatempo chamado rébus, que consiste em exprimir palavras através de imagens e símbolos, e o conjunto deles revela a solução. Convencidos de se tratar de um passatempo divertido e dada a inexistência de um jogo com rébus em língua portuguesa, a Antworks Studio decidiu fazer desse o seu segundo projeto comercial. 
 Em parceria com Pedro Almeida, amigo pessoal do estúdio, e munidos dos muitos aprendizados da produção do Conexus, o jogo começou sua produção em Novembro de 2015.
 
 ## Features
@@ -49,7 +46,7 @@ Download dos screenshots em ** [.zip (63 KB)](assets/images/images.zip "Images z
 
 ## Créditos do Projeto
 
-**Pedro Almeida**
+**Pedro Almeida** 
 [Artista]
 
 **Victor Rodrigues Matsuguma**  
