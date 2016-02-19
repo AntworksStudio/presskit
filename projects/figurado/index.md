@@ -6,17 +6,17 @@
 [Antworks Studio](https://http://antworksstudio.github.io/presskit)
 
 **Lançamento**  
-28 de Novembro de 2014
+28 de Fevereiro de 2016
 
 **Plataformas:**  
-[Android - BETA](https://play.google.com/apps/testing/com.Antworks.rebus)  
-[iOS]
+[Android](https://play.google.com/store/apps/details?id=com.Antworks.rebus)  
+[iOS](https://itunes.apple.com/us/app/figurado/id1074391059)
 
 **Preço:**  
 Free
 
 ## Nome
-**Figurado** (Working title)
+**Figurado**
 
 ## Descrição
 
@@ -42,16 +42,13 @@ Download dos screenshots em ** [.zip (4.22MB)](assets/images/images.zip "Images 
 [![image_01_name](assets/images/figurado_01.png)](assets/images/figurado_01.png)
 [![image_02_name](assets/images/figurado_02.png)](assets/images/figurado_02.png)
 [![image_03_name](assets/images/figurado_03.png)](assets/images/figurado_03.png)
-[![image_04_name](assets/images/figurado_04.png)](assets/images/figurado_04.png)
 [![image_05_name](assets/images/figurado_05.png)](assets/images/figurado_05.png)
 
 ## Ícone e Header
 
-Download dos screenshots em ** [.zip (3.18KB)](assets/images/icons.zip "Icons zip") **
+Download das imagens em ** [.zip (3.18KB)](assets/images/icons.zip "Icons zip") **
 
 [![image_01_name](assets/images/icone_01.png)](assets/images/icone_01.png)
-[![image_02_name](assets/images/header_01.jpg)](assets/images/header_01.jpg)
-
 
 ## Créditos do Projeto
 
