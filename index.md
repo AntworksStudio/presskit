@@ -49,20 +49,22 @@ Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/w
 
 ## Imagens
 
-Download das imagens em ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+Download das imagens em ** [.zip (1,62 MB)](assets/images/images.zip "Images zip") **
 
-[![image_01_name](assets/images/team_01.jpg)](assets/images/team_01.jpg)
+[![image_01_name](assets/images/team_03.jpg)](assets/images/team_03.jpg)
 [![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
 [![image_03_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
 [![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
-[![image_05_name](assets/images/conexus_03.png)](assets/images/conexus_03.png)
+[![image_05_name](assets/images/figurado_01.png)](assets/images/figurado_01.png)
 
 ## Logo & Ícone
 
-Download das imagens em ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+Download das imagens em ** [.zip (430 KB)]( assets/images/logo.zip "Logo & Icon zip") **
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
+[![logo](assets/images/logo_figurado.png)](assets/images/logo_figurado.png "Logo Figurado")
+[![icon](assets/images/icon_figurado.png)](assets/images/icon_figurado.png "Icon Figurado")
 
 ## Equipe
 
