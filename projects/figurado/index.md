@@ -6,7 +6,7 @@
 [Antworks Studio](https://http://antworksstudio.github.io/presskit)
 
 **Lançamento**  
-27 de Fevereiro de 2016
+28 de Fevereiro de 2016
 
 **Plataformas:**  
 [Android](https://play.google.com/store/apps/details?id=com.Antworks.rebus)  
