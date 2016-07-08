@@ -51,7 +51,7 @@ Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/w
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
-## Imagens T
+## Imagens
 
 Download das imagens em ** [.zip (1,62 MB)](assets/images/images.zip "Images zip") **
 
@@ -59,7 +59,7 @@ Download das imagens em ** [.zip (1,62 MB)](assets/images/images.zip "Images zip
 [![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
 [![image_03_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
 [![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
-[![image_05_name](assets/images/figurado_balcao.png)](assets/images/figurado_balcao.png
+[![image_05_name](assets/images/figurado_balcao.png)](assets/images/figurado_balcao.png)
 [![image_06_name](assets/images/figurado_musica.png)](assets/images/figurado_musica.png)
 
 ## Logo & Ícone
