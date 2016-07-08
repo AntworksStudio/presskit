@@ -34,15 +34,21 @@ Em parceria com Pedro Almeida, amigo pessoal do estúdio, e munidos dos muitos a
 * Visual agradável.
 * Compartilhamento em redes sociais.
 * Atualizações periódicas.
+* Mais de 80 imagens!
+
+## Vídeos
+
+Trailer oficial. [Youtube](https://youtu.be/XIj8S7WgDdY "Figurado Trailer on Youtube")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIj8S7WgDdY" frameborder="0" allowfullscreen></iframe>
+<br>
 
 ## Imagens
 
 Download dos screenshots em ** [.zip (4.22MB)](assets/images/images.zip "Images zip") **
 
-[![image_01_name](assets/images/figurado_01.png)](assets/images/figurado_01.png)
-[![image_02_name](assets/images/figurado_02.png)](assets/images/figurado_02.png)
+[![image_01_name](assets/images/figurado_01.jpg)](assets/images/figurado_01.jpg)
+[![image_02_name](assets/images/figurado_02.jpg)](assets/images/figurado_02.jpg)
 [![image_03_name](assets/images/figurado_03.png)](assets/images/figurado_03.png)
-[![image_05_name](assets/images/figurado_05.png)](assets/images/figurado_05.png)
 
 ## Ícone e Header
 
@@ -61,6 +67,12 @@ Download das imagens em ** [.zip (3.18KB)](assets/images/icons.zip "Icons zip") 
 **Vinícius Pimentel Couto**  
 [Desenvolvedor]
 
+**Artur Lattaro**
+[Artista Convidado]
+
+**Guilherme Pradulla**
+[Artista Convidado]
+
 ## Contato
 
 **Perguntas**  
@@ -70,7 +82,7 @@ Download das imagens em ** [.zip (3.18KB)](assets/images/icons.zip "Icons zip") 
 [twitter.com/AntworksStudio][twitter]
 
 ** Facebook**  
-[facebook.com/AntworksStudio][facebook]
+[facebook.com/JogoFigurado][facebook]
 
 **Web**  
 [antworks.itch.io][homepage]
@@ -85,4 +97,4 @@ Download das imagens em ** [.zip (3.18KB)](assets/images/icons.zip "Icons zip") 
 <!--- Social -->
 
 [twitter]: https://twitter.com/AntworksStudio
-[facebook]: https://facebook.com/AntworksStudio
+[facebook]: https://facebook.com/JogoFigurado
