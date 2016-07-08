@@ -33,7 +33,8 @@ A Antworks Studio é um pequeno estúdio de jogos composto de três estudantes d
 ## História
 
 Em 2012, depois de muito quebrar a cabeça com diversas ferramentas e nenhuma experiência no ramo, os três co-fundadores encontraram a game engine Unity e a partir daí começaram a desenvolver seus primeiros projetos. O primeiro jogo veio apenas em 2013, o Conexus, resultado de uma game jam local.  
-Hoje, a Antworks Studio se prepara para novos projetos e ideias, buscando jogos desafiantes, porém, acima de tudo, divertidos.
+Algum tempo depois, seu segundo jogo, Figurado, foi muito bem recebido e indicado a "Melhor Jogo Educacional ou de Aprendizado" no BIG Festival 2016.
+Hoje, a Antworks Studio continua seus trabalhos com o Figurado enquanto busca trazer novos projetos a vida.
 
 ## Projetos
 
@@ -42,8 +43,11 @@ Hoje, a Antworks Studio se prepara para novos projetos e ideias, buscando jogos 
 
 ## Vídeos
 
-Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
+Este é o trailer do Figurado. [Youtube](https://youtu.be/XIj8S7WgDdY "Figurado Trailer on Youtube")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIj8S7WgDdY" frameborder="0" allowfullscreen></iframe>
+<br>
 
+Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
