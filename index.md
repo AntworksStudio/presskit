@@ -59,7 +59,7 @@ Download das imagens em ** [.zip (1,62 MB)](assets/images/images.zip "Images zip
 [![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
 [![image_03_name](assets/images/conexus_01.png)](assets/images/conexus_01.png)
 [![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
-[![image_05_name](assets/images/figurado_01.png)](assets/images/poster_balcao.jpg)
+[![image_05_name](assets/images/poster_balcao.jpg)](assets/images/poster_balcao.jpg)
 
 ## Logo & Ícone
 
