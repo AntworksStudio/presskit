@@ -51,7 +51,7 @@ Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/w
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
-## Imagens
+## Imagens T
 
 Download das imagens em ** [.zip (1,62 MB)](assets/images/images.zip "Images zip") **
 
