@@ -1,4 +1,4 @@
-# ![Game Name](assets/images/header_01.jpg)
+# ![Figurado](assets/images/header_01.jpg)
 
 ## Informações
 
@@ -25,7 +25,8 @@ Figurado é um jogo que exige imaginação, raciocínio e criatividade. A cada q
 
 ## História
 Através do jogo Rebus, conhecemos o passatempo chamado rébus, que consiste em exprimir palavras através de imagens e símbolos, e o conjunto deles revela a solução. Convencidos de se tratar de um passatempo divertido e dada a inexistência de um jogo com rébus em língua portuguesa, a Antworks Studio decidiu fazer desse o seu segundo projeto comercial.  
-Em parceria com Pedro Almeida, amigo pessoal do estúdio, e munidos dos muitos aprendizados da produção do Conexus, o jogo começou sua produção em Novembro de 2015.
+Em parceria com Pedro Almeida, amigo pessoal do estúdio, e munidos dos muitos aprendizados da produção do Conexus, o jogo começou sua produção em Novembro de 2015.  
+O jogo foi finalista do BIG Festival 2016, o Festival Brasileiro de Jogos Independentes, na categoria "Melhor Jogo Educacional ou de Aprendizado".
 
 ## Features
 
@@ -44,7 +45,7 @@ Trailer oficial. [Youtube](https://youtu.be/XIj8S7WgDdY "Figurado Trailer on You
 
 ## Imagens
 
-Download dos screenshots em ** [.zip (4.22MB)](assets/images/images.zip "Images zip") **
+Download dos screenshots em ** [.zip (3,35MB)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/figurado_01.jpg)](assets/images/figurado_01.jpg)
 [![image_02_name](assets/images/figurado_02.jpg)](assets/images/figurado_02.jpg)
@@ -67,10 +68,10 @@ Download das imagens em ** [.zip (3.18KB)](assets/images/icons.zip "Icons zip") 
 **Vinícius Pimentel Couto**  
 [Desenvolvedor]
 
-**Artur Lattaro**
+**Artur Lattaro**  
 [Artista Convidado]
 
-**Guilherme Pradulla**
+**Guilherme Pradulla**  
 [Artista Convidado]
 
 ## Contato

@@ -1,4 +1,4 @@
-# ![Game Name](assets/images/header.png)
+# ![Conexus](assets/images/header.png)
 
 ## Informações
 
