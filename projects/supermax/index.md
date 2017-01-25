@@ -53,7 +53,7 @@ Download dos screenshots em ** [.zip (13,4 MB)](assets/images/images.zip "Images
 [![image_03_name](assets/images/supermax_03.png)](assets/images/supermax_03.png)
 [![image_04_name](assets/images/supermax_04.png)](assets/images/supermax_04.png)
 [![image_05_name](assets/images/supermax_05.png)](assets/images/supermax_05.png)
-[![image_05_name](assets/images/supermax_05.png)](assets/images/supermax_06.png)
+[![image_06_name](assets/images/supermax_06.png)](assets/images/supermax_06.png)
 
 ## Logo & Ícone
 

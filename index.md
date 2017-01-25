@@ -33,9 +33,9 @@ A Antworks Studio é um pequeno estúdio de jogos composto de três estudantes d
 
 ## História
 
-Em 2012, depois de muito quebrar a cabeça com diversas ferramentas e nenhuma experiência no ramo, os três co-fundadores encontraram a game engine Unity e a partir daí começaram a desenvolver seus primeiros projetos. O primeiro jogo veio apenas em 2013, o Conexus, resultado de uma game jam local.  
-Algum tempo depois, seu segundo jogo, Figurado, foi muito bem recebido e indicado a "Melhor Jogo Educacional ou de Aprendizado" no BIG Festival 2016.
-Hoje, a Antworks Studio continua seus trabalhos com o Figurado enquanto busca trazer novos projetos a vida.
+Em 2012, depois de muito quebrar a cabeça com diversas ferramentas e nenhuma experiência no ramo, os três co-fundadores encontraram a game engine Unity e a partir daí começaram a desenvolver seus primeiros projetos. O primeiro jogo veio apenas em 2013, o <b>Conexus</b>, resultado de uma game jam local.  
+Algum tempo depois, seu segundo jogo, <b>Figurado</b>, foi muito bem recebido e indicado a "Melhor Jogo Educacional ou de Aprendizado" no <i>BIG Festival 2016</i>.  
+Ainda em 2016, a Antworks Studio foi vencedora da Brasil Game Jam, e foi contactada pela Rede Globo para o desenvolvimento do jogo <b>Supermax</b>.
 
 ## Projetos
 
@@ -55,7 +55,7 @@ Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/w
 
 ## Imagens
 
-Download das imagens em ** [.zip (2,14 MB)](assets/images/images.zip "Images zip") **
+Download das imagens em ** [.zip (2,91 MB)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/team_03.png)](assets/images/team_03.png)
 [![image_02_name](assets/images/team_02.jpg)](assets/images/team_02.jpg)
@@ -63,6 +63,8 @@ Download das imagens em ** [.zip (2,14 MB)](assets/images/images.zip "Images zip
 [![image_04_name](assets/images/conexus_02.png)](assets/images/conexus_02.png)
 [![image_05_name](assets/images/figurado_balcao.png)](assets/images/figurado_balcao.png)
 [![image_06_name](assets/images/figurado_musica.png)](assets/images/figurado_musica.png)
+[![image_07_name](assets/images/supermax_01.png)](assets/images/supermax_01.png)
+[![image_08_name](assets/images/supermax_02.png)](assets/images/supermax_02.png)
 
 ## Logo & Ícone
 
