@@ -13,7 +13,11 @@
     },
 	{
 	 "name": "Figurado",
-      "link": "projects&#47;figurado&#47;"	
+      "link": "projects&#47;figurado&#47;"
+	},
+  {
+	 "name": "Supermax",
+      "link": "projects&#47;supermax&#47;"
 	}
   ],
   "layout": {

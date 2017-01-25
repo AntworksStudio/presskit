@@ -20,7 +20,8 @@ Antworks Studio
 
 **Publicações:**  
 [Conexus][conexus]  
-[Figurado][figurado]
+[Figurado][figurado]  
+[Supermax][supermax]
 
 **Localização:**  
 Campinas, São Paulo  
@@ -39,7 +40,8 @@ Hoje, a Antworks Studio continua seus trabalhos com o Figurado enquanto busca tr
 ## Projetos
 
 * [Conexus][conexus]  
-* [Figurado][figurado]
+* [Figurado][figurado]  
+* [Supermax][supermax]
 
 ## Vídeos
 
