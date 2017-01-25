@@ -114,3 +114,4 @@ Download das imagens em ** [.zip (430 KB)]( assets/images/logo.zip "Logo & Icon 
 
 [conexus]: projects/conexus/
 [figurado]: projects/figurado/
+[supermax]: projects/supermax/

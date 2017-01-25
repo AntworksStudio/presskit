@@ -20,13 +20,13 @@ Free
 
 ## Descrição
 
-Escape da Supermax!  
+Escape da <i>Supermax</i>!  
 Resolva quebra-cabeças para escapar da prisão de segurança máxima onde coisas estranhas acontecem.  
 Baseado na série da Rede Globo: Supermax e desenvolvido em parceria com a 3Force.
 
 ## História
 
-Na Brasil Game Show de 2016 aconteceu a Brasil Game Jam, uma game jam realizada pela Rede Globo tendo como tema a nova série da emissora: Supermax. Com o foco em transferir a atmosfera de tensão, suspense e incerteza da série para um jogo, a Antworks Studio foi eleita vencedora dentre outras 9 equipes com o jogo Tormenta: a Fuga [Tormenta](https://antworks.itch.io/tormenta).  
+Na <i>Brasil Game Show</i> de 2016 aconteceu a <i>Brasil Game Jam</i>, uma game jam realizada pela Rede Globo tendo como tema a nova série da emissora: <b>Supermax</b>. Com o foco em transferir a atmosfera de tensão, suspense e incerteza da série para um jogo, a Antworks Studio foi eleita vencedora dentre outras 9 equipes com o jogo [Tormenta: a Fuga](https://antworks.itch.io/tormenta).  
 Assim, o estúdio foi contactado pela emissora para desenvolver a versão completa do jogo em parceria com a 3Force e, após três meses de trabalho intenso, o jogo Supermax foi completado.  
 O jogo é composto de três fases em que o jogador deve solucionar diversos quebra-cabeças. O ambiente das fases e os quebra-cabeças remetem a acontecimentos e, principalmente, a temáticas abordadas na série, como a religião.  
 
@@ -48,12 +48,12 @@ Vídeo de gameplay do Youtube [Youtube](https://www.youtube.com/watch?v=LfjbHpzo
 
 Download dos screenshots em ** [.zip (13,4 MB)](assets/images/images.zip "Images zip") **
 
-[![image_01_name](assets/images/conexus_01.png)](assets/images/supermax_01.png)
-[![image_02_name](assets/images/conexus_02.png)](assets/images/supermax_02.png)
-[![image_03_name](assets/images/conexus_03.png)](assets/images/supermax_03.png)
-[![image_04_name](assets/images/conexus_04.png)](assets/images/supermax_04.png)
-[![image_05_name](assets/images/conexus_05.png)](assets/images/supermax_05.png)
-[![image_05_name](assets/images/conexus_05.png)](assets/images/supermax_06.png)
+[![image_01_name](assets/images/supermax_01.png)](assets/images/supermax_01.png)
+[![image_02_name](assets/images/supermax_02.png)](assets/images/supermax_02.png)
+[![image_03_name](assets/images/supermax_03.png)](assets/images/supermax_03.png)
+[![image_04_name](assets/images/supermax_04.png)](assets/images/supermax_04.png)
+[![image_05_name](assets/images/supermax_05.png)](assets/images/supermax_05.png)
+[![image_05_name](assets/images/supermax_05.png)](assets/images/supermax_06.png)
 
 ## Logo & Ícone
 
