@@ -45,8 +45,13 @@ Ainda em 2016, a Antworks Studio foi vencedora da Brasil Game Jam, e foi contact
 
 ## Vídeos
 
+Comercial do jogo, transmitido na Rede Globo [Youtube](https://www.youtube.com/watch?v=LeBPqaJGaZU "Comercial Supermax")  
+
+<iframe src="https://www.youtube.com/embed/LeBPqaJGaZU" frameborder="0" allowfullscreen></iframe>
+<br>
+
 Este é o trailer do Figurado. [Youtube](https://youtu.be/XIj8S7WgDdY "Figurado Trailer on Youtube")
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIj8S7WgDdY" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XIj8S7WgDdY" frameborder="0" allowfullscreen></iframe>
 <br>
 
 Este é o trailer de lançamento do Conexus. [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
