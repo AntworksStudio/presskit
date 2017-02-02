@@ -10,7 +10,7 @@ Antworks Studio
 
 **Plataformas:**  
 [Android](https://play.google.com/store/apps/details?id=com.AntworksStudio.Conexus)  
-[Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)	
+[Windows Phone](http://www.windowsphone.com/s?appid=f7167c39-278e-41b8-b59e-8b52a485b40d)
 [iOS](https://itunes.apple.com/us/app/conexus-game/id987680823?mt=8)
 
 **Website:**  
@@ -39,12 +39,12 @@ No início de 2014, com o feedback recebido de membros da IGDA (Independent Game
 
 ## Vídeos
 
-Trailer de lançamento. [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
+Trailer de lançamento no [Youtube](https://www.youtube.com/watch?v=t_kxMv8dIdc "Conexus Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HMNE6rF1UA8" frameborder="0" allowfullscreen></iframe>
 <br>
 
-Vídeo de gameplay. [Youtube](https://www.youtube.com/watch?v=dBg3E4SiYFY "Conexus gameplay on Youtube")
+Vídeo de gameplay no [Youtube](https://www.youtube.com/watch?v=dBg3E4SiYFY "Conexus gameplay on Youtube")
 
 <iframe src="//www.youtube.com/embed/dBg3E4SiYFY" frameborder="0" allowfullscreen></iframe>
 <br>

@@ -39,8 +39,8 @@ O jogo foi finalista do BIG Festival 2016, o Festival Brasileiro de Jogos Indepe
 
 ## Vídeos
 
-Trailer oficial. [Youtube](https://youtu.be/XIj8S7WgDdY "Figurado Trailer on Youtube")
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIj8S7WgDdY" frameborder="0" allowfullscreen></iframe>
+Trailer oficial no [Youtube](https://youtu.be/XIj8S7WgDdY "Figurado Trailer on Youtube")
+<iframe src="https://www.youtube.com/embed/XIj8S7WgDdY" frameborder="0" allowfullscreen></iframe>
 <br>
 
 ## Imagens

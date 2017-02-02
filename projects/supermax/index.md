@@ -39,12 +39,12 @@ O jogo é composto de três fases em que o jogador deve solucionar diversos queb
 
 ## Vídeos
 
-Comercial do jogo, transmitido na Rede Globo [Youtube](https://www.youtube.com/watch?v=LeBPqaJGaZU "Comercial Supermax")  
+Comercial do jogo, transmitido na Rede Globo, no [Youtube](https://www.youtube.com/watch?v=LeBPqaJGaZU "Comercial Supermax")  
 
 <iframe src="https://www.youtube.com/embed/LeBPqaJGaZU" frameborder="0" allowfullscreen></iframe>
 <br>
 
-Vídeo de gameplay do Youtube [Youtube](https://www.youtube.com/watch?v=LfjbHpzo1B4 "Supermax gameplay XD Games")  
+Vídeo de gameplay do [Youtube](https://www.youtube.com/watch?v=LfjbHpzo1B4 "Supermax gameplay XD Games")  
 
 <iframe src="https://www.youtube.com/embed/LfjbHpzo1B4" frameborder="0" allowfullscreen></iframe>
 <br>
